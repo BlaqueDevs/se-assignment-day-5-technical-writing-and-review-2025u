@@ -74,7 +74,9 @@ Use progressive Disclosure, provide  information in layers
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 Simplify Language and Structure: 
-Use plain Language: avoid jargon, trvh
+Use plain Language: avoid jargon,complex vocabulary.opt for simple phrases.
+Short Sentences and paragraphs:Break down  the 
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
